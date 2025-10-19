@@ -39,6 +39,7 @@ t = int(input("Enter Time (in years):"))
 simpleInterest = (p * r * t) / 100
 print("The Simple Interest",simpleInterest)
 
+########################33
 
 
 
